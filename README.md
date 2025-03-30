@@ -4,7 +4,7 @@ Modern ve güvenli bir bankacılık deneyimi sunan PHP tabanlı web uygulaması.
 
 ## Canlı Demo
 
-Uygulamaya erişmek için: [tahamehel.tr/bank](http://tahamehelçtr/bank)
+Uygulamaya erişmek için: [tahamehel.tr/bank](http://tahamehel.tr/bank)
 
 ## Ekran Görüntüleri
 
