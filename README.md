@@ -9,10 +9,12 @@ Uygulamaya erişmek için: [tahamehel.tr/bank](http://tahamehelçtr/bank)
 ## Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](assets/ana-sayfa.png)
+![chrome_li0GofTeFr](https://github.com/user-attachments/assets/3ee71a58-325f-48d1-886f-745dccaf1038)
+
 
 ### Dashboard
-![Dashboard](assets/dashboard.png)
+![chrome_AxeRbqao4i](https://github.com/user-attachments/assets/a82a4366-ea6e-4625-8063-5bf76f4118ba)
+
 
 ## Özellikler
 
