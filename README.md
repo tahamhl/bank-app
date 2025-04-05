@@ -36,7 +36,7 @@ Uygulamaya erişmek için: [tahamehel.tr/bank](http://tahamehel.tr/bank)
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/kullanici-adiniz/bankapp.git
+git clone https://github.com/tahamhl/bankapp.git
 cd bankapp
 ```
 
